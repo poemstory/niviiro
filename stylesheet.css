@@ -1,0 +1,32 @@
+*{margin: 0;padding: 0;
+    background-color: black;
+    color: yellow;
+}
+
+body{box-sizing: border-box;
+
+
+}
+  
+.navbar{background-color: black;
+         }
+
+
+
+.navbar-brand{color: yellow}        
+
+.nav-link{color: yellow}
+
+.nav-link:hover{color: red;}
+
+.navbar button{background-color:yellow;color:black;}
+.navbar span{color:black;font-size: small;
+           padding-right: 30px;}
+
+
+.about{text-align: center;padding: 10%;}
+
+#our{text-align: center;padding-bottom: 5%;}
+#our h3{text-align: center;}
+
+#footer{padding-top: 5vh;margin-bottom: 5vh;}
